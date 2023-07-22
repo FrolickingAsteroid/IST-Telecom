@@ -89,7 +89,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/jbcr/Desktop/IST/3ano/Telecom/lab0/lab0b-packed.dat
+    file: /home/jbcr/Desktop/IST/3ano/Telecom/lab0/Output/lab0b-packed.dat
     type: byte
     unbuffered: 'True'
     vlen: '1'
@@ -107,7 +107,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/jbcr/Desktop/IST/3ano/Telecom/lab0/lab0b-unpacked.dat
+    file: /home/jbcr/Desktop/IST/3ano/Telecom/lab0/Output/lab0b-unpacked.dat
     type: byte
     unbuffered: 'True'
     vlen: '1'
@@ -280,4 +280,4 @@ connections:
 
 metadata:
   file_format: 1
-  grc_version: 3.10.2.0
+  grc_version: 3.10.6.0
